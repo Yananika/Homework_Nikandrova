@@ -9,4 +9,4 @@ if (firstnumber>secondnumber)
 {
     Console.Write($"Максимальное число {firstnumber}");
 }
-else Console.Write($"Максимальное число {secondnumber}");2
+else Console.Write($"Максимальное число {secondnumber}");
